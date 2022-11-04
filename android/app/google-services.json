@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839269216107",
+    "project_id": "lander-1c301",
+    "storage_bucket": "lander-1c301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839269216107:android:ba855b4327cd705d8c662e",
+        "android_client_info": {
+          "package_name": "com.example.lander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839269216107-2n1cv7b6rl5u53qshu01kdbglg7s7eur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lander",
+            "certificate_hash": "221d98f0f13575e1c224e051e0a5866d3c46fb0d"
+          }
+        },
+        {
+          "client_id": "839269216107-no8f1kgk6eusqekbj1mpgehshpvckbqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXID1gDEZ6inzwrMybYsdhWH3BqfHC7lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839269216107-no8f1kgk6eusqekbj1mpgehshpvckbqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
